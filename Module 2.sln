@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module 2", "Module 2\Module 2.csproj", "{E5A79DAB-5765-4A45-AD90-721B7BB2B16F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Присваивание x y", "Присваивание x y\Присваивание x y.csproj", "{2531D486-791A-4689-AFBA-839764856203}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Четное нечетное", "Четное нечетное\Четное нечетное.csproj", "{4BE3D781-9051-43C3-96AE-668875584160}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "сумма нечетных целых чисел", "сумма нечетных целых чисел\сумма нечетных целых чисел.csproj", "{CBB4FEB5-3E3B-4608-AA97-7D154A7A6862}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Омы", "Омы\Омы.csproj", "{07B9DBF4-C329-48A3-86EF-63AB597B2FD2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Часы секунды минуты", "Часы секунды минуты\Часы секунды минуты.csproj", "{57E36749-1881-4B60-B3F5-DD73D06E3DDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5A79DAB-5765-4A45-AD90-721B7BB2B16F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5A79DAB-5765-4A45-AD90-721B7BB2B16F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5A79DAB-5765-4A45-AD90-721B7BB2B16F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5A79DAB-5765-4A45-AD90-721B7BB2B16F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2531D486-791A-4689-AFBA-839764856203}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2531D486-791A-4689-AFBA-839764856203}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2531D486-791A-4689-AFBA-839764856203}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2531D486-791A-4689-AFBA-839764856203}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BE3D781-9051-43C3-96AE-668875584160}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BE3D781-9051-43C3-96AE-668875584160}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BE3D781-9051-43C3-96AE-668875584160}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BE3D781-9051-43C3-96AE-668875584160}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBB4FEB5-3E3B-4608-AA97-7D154A7A6862}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBB4FEB5-3E3B-4608-AA97-7D154A7A6862}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBB4FEB5-3E3B-4608-AA97-7D154A7A6862}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBB4FEB5-3E3B-4608-AA97-7D154A7A6862}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07B9DBF4-C329-48A3-86EF-63AB597B2FD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07B9DBF4-C329-48A3-86EF-63AB597B2FD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07B9DBF4-C329-48A3-86EF-63AB597B2FD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07B9DBF4-C329-48A3-86EF-63AB597B2FD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57E36749-1881-4B60-B3F5-DD73D06E3DDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57E36749-1881-4B60-B3F5-DD73D06E3DDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57E36749-1881-4B60-B3F5-DD73D06E3DDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57E36749-1881-4B60-B3F5-DD73D06E3DDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD0F49D4-1B95-4907-997C-32AC41D3709D}
+	EndGlobalSection
+EndGlobal
